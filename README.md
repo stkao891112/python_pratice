@@ -1,2 +1,2 @@
-# python_pratice
-python_pratice
+# python_practice
+python_practice
